@@ -4,7 +4,7 @@ function Blog() {
 	return (
 		<div>
 			<Nav></Nav>
-            blog
+            This is the blog
 		</div>
 	);
 }
